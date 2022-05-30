@@ -2,7 +2,7 @@
 <p align="center">
   <img id="logo" src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif" alt="Algorithms" width="150">
 
-  <h3 align="center">Agorithm Collection</h3>
+  <h3 align="center">Algorithm Collection</h3>
   <p align="center">
     Python
   </p>
