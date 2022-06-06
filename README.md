@@ -18,7 +18,7 @@
 
 This is a forever-expanding collection of algorithms that we continuously solve with my students.
 
-**Warning**: NOT a showcase of my work. The solutions are not optimal yet for educational and challenge reasons.
+**Warning**: NOT a showcase of my work. The solutions are not optimal yet for educational and challenge purposes.
 
 ### Built With
 
