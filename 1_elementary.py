@@ -104,7 +104,7 @@ if __name__ == "__main__":
     print("----------------")
     print(sum_numbers(10))
     start = time.time()
-    print(sum_numbers(10000))
+    print(sum_numbers(100000000))
     end = time.time()
     print("For loop: ", end - start)
     start = time.time()
